@@ -6,7 +6,6 @@ let lines = input.split('\n');
 
 const T = Number(lines.shift());
 for(let i = 0; i < T; i++) {
-  let n = Number(lines[i])
 
   let string = "";
 
